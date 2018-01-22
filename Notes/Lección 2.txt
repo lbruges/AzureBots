@@ -1,0 +1,91 @@
+Diseño de interfaces conversacionales
+
+No es la AI que posee, sofisticado de modelo de lenguaje, utilizar voz ni cantidad de funciones
+
+Los que hacen bien lo que están destinados a hacer.
+
+Flujo de comunicación
+
+_______________________________________________________________
+|Tarea | Objetivo | Motivación de usuario | Pasos | Previsiones|
+|______|__________|_______________________|_______|____________|
+
+Previsiones de eventos: error, validaciones de los datos proporcionados por el usuario
+Preguntar a usuarios si los datos ingresados son correctos y recibir confirmación+
+
+Simplificar procesos de funcionalidades
+
+Diseño inclusivo: diseño para todos que tiene como objetivo que las aplicaciones, servicios, etc. puedan ser utilizados por el mayor número de personas. Diseño d euna diversidad de cosas para que todos lo puedan utilizar. Accesibilidad. Disponibilidad.
+
+Componentes de experiencia:
+Nosotros sabemos de nuestra audiencia: Aprendizaje y memoria, percepción y sentidom personalidad, lógica y raciocinio, accesibilidad
+Y empatizamos con sus necesidades: significado y tono del texto, tarjetas, imágenes, emojis, tiempo de respuesta, ramificación conversacional.
+
+-----------------------
+
+Concejos de UX para chatbox
+
+Avatar (<-> ícono de app):
+Evitar:
+* Fotos
+* Textos
+* Detalles minuciosos
+* Información errónea
+
+Cuidado con colores
+
+* Formas claras y directas
+* Colores perceptibles en los canales elegidos
+* Background: transaparente o rellenado.
+
+Debe tener:
+* Escalabilidad
+* Reconocimiento
+* Consistencia (armonía visual y funcionalidad)
+* Singularidad
+* Dejar marca propia: llave de entrada para interacción
+
+Utilización de elementos UI adecuados
+Elementos gráficos disponibles
+
+Consejo: Nunca incluir información importante en los subtítulos de imagen. Colocar información relevante junto al título de la imagen.
+
+Menú principal:
+Palabras claves 
+
+Experiencia de la conversación:
+Creación de un personaje: enfocado en perfiles de usuarios de chatbox
+Reflejo de empresa, desarrollar características, lenguaje y texto que vayan de acuerdo a la marca
+
+Creación de ruta de trabajo (inicio a final)
+Perfiles de personas y escenarios posibles en el trayecto
+
+Pequeñas conversaciones (micromomentos): deben ser previstas dentro de la conversación.
+Saludos, preguntar por dudas adicionales, por calidad de servicio
+Seguimiento de calidad de conocimientos
+
+Personalidad: compuesta por reglas de negocio y lado creativo
+|-> Inteligencia: ej. machine learning. Abastecer de conocimiento al chatbot.
+|-> Recuerdo: seguimiento de la conversación. Histórico de la conversación con información necesaria evitando que se tenga que responder siempre las mismas preguntas.
+
+El usuario debe tener en claro que el usuario está dialogando con un bot
+
+
+Definir canal y dispositivos correctos:
+* Cortana
+* Email
+* Facebook
+* Group me
+* Kik
+* Skype
+* Skype for business
+* Slack
+* SMS
+* Microsoft Teams
+* Telegram
+* WeChat
+* Web Chat
+
+La calidad de un bot no se define por la cantidad de canales en los que esté disponible.
+
+pruebas sobre plataformas y canales
