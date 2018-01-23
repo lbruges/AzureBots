@@ -1,0 +1,34 @@
+Desafíos de arquitectura
+Uso principal: atención al cliente
+
+Microsoft bot framework -> evitar la necesidad de tener que codificar bots según plataforma
+
+-----------------------
+Microsoft Bot Framework
+
+Varias plataformas de conversación
+
+Crea y conecta robots inteligentes
+Cross channel, AI, machine-learning, REST, procesamiento de imágenes y recursos up-to-date
+
+Conectar lógica de negocio con el usuario
+
+Conexión con los canales a través de bot conector a partir de un API REST en el código del bot
+
+Se pueden crear bots sólo con API REST
+
+Código del bot se conecta Bot Builder SDK (NodeJS | C#) gestiona conversación sin necesidad de que sea gestionada por el desarrollador.Conexión con comprensión lenguaje natural LUIS.
+
+Bot connector -> a partir de REST se conecta a plataformas, servicios de inteligencia, almacenamiento, arroja número de peticiones, fallos, etc.
+
+Bot -- Activity JSON -- Connector service -- Channel JSON -- Channel
+-----------------------
+Microsoft Cognitive Services
+
+API, SDK y servicios disponibles.
+
+- Visión: procesamiento de imágenes. Información a partir de imágenes, reconocimiento de emociones, identificar caras, obtener información a partir de video
+- Voz: voz en texto, reconocimiento y autenticación de voz, traducción en tiempo real. 
+- Lenguaje: 
+- Conocimiento 
+- Búsqueda
